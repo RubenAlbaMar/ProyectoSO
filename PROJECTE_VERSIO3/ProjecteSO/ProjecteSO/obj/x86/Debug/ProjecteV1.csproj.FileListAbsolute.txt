@@ -1,0 +1,106 @@
+C:\Users\Mar\Desktop\MIPROYECTO\ProjecteSO\ProjecteSO\bin\Debug\ProjecteSO.exe
+C:\Users\Mar\Desktop\MIPROYECTO\ProjecteSO\ProjecteSO\bin\Debug\ProjecteSO.pdb
+C:\Users\Mar\Desktop\MIPROYECTO\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.SignIn.resources
+C:\Users\Mar\Desktop\MIPROYECTO\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.LogIn.resources
+C:\Users\Mar\Desktop\MIPROYECTO\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.Wellcome.resources
+C:\Users\Mar\Desktop\MIPROYECTO\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.Properties.Resources.resources
+C:\Users\Mar\Desktop\MIPROYECTO\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteV1.csproj.GenerateResource.Cache
+C:\Users\Mar\Desktop\MIPROYECTO\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.exe
+C:\Users\Mar\Desktop\MIPROYECTO\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.pdb
+C:\Users\ruben\Desktop\MIPROYECTO\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.exe
+C:\Users\ruben\Desktop\MIPROYECTO\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.pdb
+C:\Users\ruben\Desktop\MIPROYECTO\ProjecteSO\ProjecteSO\bin\Debug\ProjecteSO.exe
+C:\Users\ruben\Desktop\MIPROYECTO\ProjecteSO\ProjecteSO\bin\Debug\ProjecteSO.pdb
+C:\Users\ruben\Desktop\MIPROYECTO\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.SignIn.resources
+C:\Users\ruben\Desktop\MIPROYECTO\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.LogIn.resources
+C:\Users\ruben\Desktop\MIPROYECTO\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.Wellcome.resources
+C:\Users\ruben\Desktop\MIPROYECTO\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.Properties.Resources.resources
+C:\Users\ruben\Desktop\MIPROYECTO\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteV1.csproj.GenerateResource.Cache
+C:\Users\Mar\Desktop\Version1 Proyecto\Version1 Proyecto\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.exe
+C:\Users\Mar\Desktop\Version1 Proyecto\Version1 Proyecto\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.pdb
+C:\Users\Mar\Desktop\Version1 Proyecto\Version1 Proyecto\ProjecteSO\ProjecteSO\bin\Debug\ProjecteSO.exe
+C:\Users\Mar\Desktop\Version1 Proyecto\Version1 Proyecto\ProjecteSO\ProjecteSO\bin\Debug\ProjecteSO.pdb
+C:\Users\Mar\Desktop\Version1 Proyecto\Version1 Proyecto\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.SignIn.resources
+C:\Users\Mar\Desktop\Version1 Proyecto\Version1 Proyecto\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.LogIn.resources
+C:\Users\Mar\Desktop\Version1 Proyecto\Version1 Proyecto\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.Wellcome.resources
+C:\Users\Mar\Desktop\Version1 Proyecto\Version1 Proyecto\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.Properties.Resources.resources
+C:\Users\Mar\Desktop\Version1 Proyecto\Version1 Proyecto\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteV1.csproj.GenerateResource.Cache
+C:\Users\Mar\Desktop\Version1 Proyecto\Version1 Proyecto\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteV1.csprojResolveAssemblyReference.cache
+C:\Users\Mar\Desktop\MAR V2 SO\SIN MUTEX\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.exe
+C:\Users\Mar\Desktop\MAR V2 SO\SIN MUTEX\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.pdb
+C:\Users\Mar\Desktop\MAR V2 SO\SIN MUTEX CON LISTA CONECTADOS\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.exe
+C:\Users\Mar\Desktop\MAR V2 SO\SIN MUTEX CON LISTA CONECTADOS\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.pdb
+C:\Users\Mar\Desktop\MAR V2 SO\SIN MUTEX CON LISTA CONECTADOS\ProjecteSO\ProjecteSO\bin\Debug\ProjecteSO.exe
+C:\Users\Mar\Desktop\MAR V2 SO\SIN MUTEX CON LISTA CONECTADOS\ProjecteSO\ProjecteSO\bin\Debug\ProjecteSO.pdb
+C:\Users\Mar\Desktop\MAR V2 SO\SIN MUTEX CON LISTA CONECTADOS\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteV1.csprojResolveAssemblyReference.cache
+C:\Users\Mar\Desktop\MAR V2 SO\SIN MUTEX CON LISTA CONECTADOS\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.SignIn.resources
+C:\Users\Mar\Desktop\MAR V2 SO\SIN MUTEX CON LISTA CONECTADOS\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.LogIn.resources
+C:\Users\Mar\Desktop\MAR V2 SO\SIN MUTEX CON LISTA CONECTADOS\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.Wellcome.resources
+C:\Users\Mar\Desktop\MAR V2 SO\SIN MUTEX CON LISTA CONECTADOS\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.Properties.Resources.resources
+C:\Users\Mar\Desktop\MAR V2 SO\SIN MUTEX CON LISTA CONECTADOS\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteV1.csproj.GenerateResource.Cache
+C:\Users\ruben\Desktop\CON MUTEX CON LISTA CONECTADOS\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.exe
+C:\Users\ruben\Desktop\CON MUTEX CON LISTA CONECTADOS\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.pdb
+C:\Users\ruben\Desktop\CON MUTEX CON LISTA CONECTADOS\ProjecteSO\ProjecteSO\bin\Debug\ProjecteSO.exe
+C:\Users\ruben\Desktop\CON MUTEX CON LISTA CONECTADOS\ProjecteSO\ProjecteSO\bin\Debug\ProjecteSO.pdb
+C:\Users\ruben\Desktop\CON MUTEX CON LISTA CONECTADOS\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteV1.csprojResolveAssemblyReference.cache
+C:\Users\ruben\Desktop\CON MUTEX CON LISTA CONECTADOS\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.SignIn.resources
+C:\Users\ruben\Desktop\CON MUTEX CON LISTA CONECTADOS\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.LogIn.resources
+C:\Users\ruben\Desktop\CON MUTEX CON LISTA CONECTADOS\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.Wellcome.resources
+C:\Users\ruben\Desktop\CON MUTEX CON LISTA CONECTADOS\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.Properties.Resources.resources
+C:\Users\ruben\Desktop\CON MUTEX CON LISTA CONECTADOS\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteV1.csproj.GenerateResource.Cache
+C:\Users\alba_\OneDrive\Documentos\UNI\3A\SO\PROJECTESO_V2\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.exe
+C:\Users\alba_\OneDrive\Documentos\UNI\3A\SO\PROJECTESO_V2\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.pdb
+C:\Users\alba_\OneDrive\Documentos\UNI\3A\SO\PROJECTESO_V3\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.exe
+C:\Users\alba_\OneDrive\Documentos\UNI\3A\SO\PROJECTESO_V3\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.pdb
+C:\Users\Mar\Documents\UPC\3A\SISTEMES OPERATIUS\PROJECTE\VERSION 3\new version\ProjecteSO\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.exe
+C:\Users\Mar\Documents\UPC\3A\SISTEMES OPERATIUS\PROJECTE\VERSION 3\new version\ProjecteSO\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.pdb
+C:\Users\Mar\Documents\UPC\3A\SISTEMES OPERATIUS\PROJECTE\VERSION 3\new version\ProjecteSO\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteV1.csprojResolveAssemblyReference.cache
+C:\Users\Mar\Documents\UPC\3A\SISTEMES OPERATIUS\PROJECTE\VERSION 3\new version\ProjecteSO\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.SignIn.resources
+C:\Users\Mar\Documents\UPC\3A\SISTEMES OPERATIUS\PROJECTE\VERSION 3\new version\ProjecteSO\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.LogIn.resources
+C:\Users\Mar\Documents\UPC\3A\SISTEMES OPERATIUS\PROJECTE\VERSION 3\new version\ProjecteSO\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.Wellcome.resources
+C:\Users\Mar\Documents\UPC\3A\SISTEMES OPERATIUS\PROJECTE\VERSION 3\new version\ProjecteSO\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.Properties.Resources.resources
+C:\Users\Mar\Documents\UPC\3A\SISTEMES OPERATIUS\PROJECTE\VERSION 3\new version\ProjecteSO\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteV1.csproj.GenerateResource.Cache
+C:\Users\Mar\Documents\UPC\3A\SISTEMES OPERATIUS\PROJECTE\VERSION 3\new version\ProjecteSO\ProjecteSO\ProjecteSO\bin\Debug\ProjecteSO.exe
+C:\Users\Mar\Documents\UPC\3A\SISTEMES OPERATIUS\PROJECTE\VERSION 3\new version\ProjecteSO\ProjecteSO\ProjecteSO\bin\Debug\ProjecteSO.pdb
+C:\Users\ruben\Desktop\ProjecteSO_V3_versionMar\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.exe
+C:\Users\ruben\Desktop\ProjecteSO_V3_versionMar\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.pdb
+C:\Users\ruben\Desktop\ProjecteSO_V3_versionMar\ProjecteSO\ProjecteSO\bin\Debug\ProjecteSO.exe
+C:\Users\ruben\Desktop\ProjecteSO_V3_versionMar\ProjecteSO\ProjecteSO\bin\Debug\ProjecteSO.pdb
+C:\Users\ruben\Desktop\ProjecteSO_V3_versionMar\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteV1.csprojResolveAssemblyReference.cache
+C:\Users\ruben\Desktop\ProjecteSO_V3_versionMar\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.SignIn.resources
+C:\Users\ruben\Desktop\ProjecteSO_V3_versionMar\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.LogIn.resources
+C:\Users\ruben\Desktop\ProjecteSO_V3_versionMar\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.Wellcome.resources
+C:\Users\ruben\Desktop\ProjecteSO_V3_versionMar\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.Properties.Resources.resources
+C:\Users\ruben\Desktop\ProjecteSO_V3_versionMar\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteV1.csproj.GenerateResource.Cache
+C:\Users\alba_\OneDrive\Documentos\UNI\3A\SO\ProjecteSO_V3_versionRuben\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.exe
+C:\Users\alba_\OneDrive\Documentos\UNI\3A\SO\ProjecteSO_V3_versionRuben\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.pdb
+C:\Users\alba_\OneDrive\Documentos\UNI\3A\SO\ProjecteSO_V3_versionRuben\ProjecteSO\ProjecteSO\bin\Debug\ProjecteSO.exe
+C:\Users\alba_\OneDrive\Documentos\UNI\3A\SO\ProjecteSO_V3_versionRuben\ProjecteSO\ProjecteSO\bin\Debug\ProjecteSO.pdb
+C:\Users\alba_\OneDrive\Documentos\UNI\3A\SO\ProjecteSO_V3_versionRuben\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteV1.csprojResolveAssemblyReference.cache
+C:\Users\alba_\OneDrive\Documentos\UNI\3A\SO\ProjecteSO_V3_versionRuben\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.SignIn.resources
+C:\Users\alba_\OneDrive\Documentos\UNI\3A\SO\ProjecteSO_V3_versionRuben\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.LogIn.resources
+C:\Users\alba_\OneDrive\Documentos\UNI\3A\SO\ProjecteSO_V3_versionRuben\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.Wellcome.resources
+C:\Users\alba_\OneDrive\Documentos\UNI\3A\SO\ProjecteSO_V3_versionRuben\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.Properties.Resources.resources
+C:\Users\alba_\OneDrive\Documentos\UNI\3A\SO\ProjecteSO_V3_versionRuben\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteV1.csproj.GenerateResource.Cache
+C:\Users\ruben\Desktop\ProjecteSO_V3_version3MarAlba\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.exe
+C:\Users\ruben\Desktop\ProjecteSO_V3_version3MarAlba\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.pdb
+C:\Users\ruben\Desktop\ProjecteSO_V3_version3MarAlba\ProjecteSO\ProjecteSO\bin\Debug\ProjecteSO.exe
+C:\Users\ruben\Desktop\ProjecteSO_V3_version3MarAlba\ProjecteSO\ProjecteSO\bin\Debug\ProjecteSO.pdb
+C:\Users\ruben\Desktop\ProjecteSO_V3_version3MarAlba\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteV1.csprojResolveAssemblyReference.cache
+C:\Users\ruben\Desktop\ProjecteSO_V3_version3MarAlba\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.SignIn.resources
+C:\Users\ruben\Desktop\ProjecteSO_V3_version3MarAlba\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.LogIn.resources
+C:\Users\ruben\Desktop\ProjecteSO_V3_version3MarAlba\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.Wellcome.resources
+C:\Users\ruben\Desktop\ProjecteSO_V3_version3MarAlba\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.Properties.Resources.resources
+C:\Users\ruben\Desktop\ProjecteSO_V3_version3MarAlba\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteV1.csproj.GenerateResource.Cache
+C:\Users\Mar\Documents\UPC\3A\SISTEMES OPERATIUS\PROJECTE\VERSION 3\ProjecteSO_V3_version3Rubén\ProjecteSO_V3_version3Rubén\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.exe
+C:\Users\Mar\Documents\UPC\3A\SISTEMES OPERATIUS\PROJECTE\VERSION 3\ProjecteSO_V3_version3Rubén\ProjecteSO_V3_version3Rubén\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.pdb
+C:\Users\Mar\Documents\UPC\3A\SISTEMES OPERATIUS\PROJECTE\VERSION 3\ProjecteSO_V3_version3Rubén\ProjecteSO_V3_version3Rubén\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteV1.csprojResolveAssemblyReference.cache
+C:\Users\Mar\Documents\UPC\3A\SISTEMES OPERATIUS\PROJECTE\VERSION 3\ProjecteSO_V3_version3Rubén\ProjecteSO_V3_version3Rubén\ProjecteSO\ProjecteSO\bin\Debug\ProjecteSO.exe
+C:\Users\Mar\Documents\UPC\3A\SISTEMES OPERATIUS\PROJECTE\VERSION 3\ProjecteSO_V3_version3Rubén\ProjecteSO_V3_version3Rubén\ProjecteSO\ProjecteSO\bin\Debug\ProjecteSO.pdb
+C:\Users\Mar\Documents\UPC\3A\SISTEMES OPERATIUS\PROJECTE\VERSION 3\ProjecteSO_V3_version3Rubén\ProjecteSO_V3_version3Rubén\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.SignIn.resources
+C:\Users\Mar\Documents\UPC\3A\SISTEMES OPERATIUS\PROJECTE\VERSION 3\ProjecteSO_V3_version3Rubén\ProjecteSO_V3_version3Rubén\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.LogIn.resources
+C:\Users\Mar\Documents\UPC\3A\SISTEMES OPERATIUS\PROJECTE\VERSION 3\ProjecteSO_V3_version3Rubén\ProjecteSO_V3_version3Rubén\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.Wellcome.resources
+C:\Users\Mar\Documents\UPC\3A\SISTEMES OPERATIUS\PROJECTE\VERSION 3\ProjecteSO_V3_version3Rubén\ProjecteSO_V3_version3Rubén\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.Properties.Resources.resources
+C:\Users\Mar\Documents\UPC\3A\SISTEMES OPERATIUS\PROJECTE\VERSION 3\ProjecteSO_V3_version3Rubén\ProjecteSO_V3_version3Rubén\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteV1.csproj.GenerateResource.Cache
+C:\Users\alba_\OneDrive\Documentos\UNI\3A\SO\PROJECTE_VERSIO3\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.exe
+C:\Users\alba_\OneDrive\Documentos\UNI\3A\SO\PROJECTE_VERSIO3\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.pdb

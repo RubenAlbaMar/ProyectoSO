@@ -1,0 +1,59 @@
+C:\Users\Mar\Documents\UPC\3A\SISTEMES OPERATIUS\PROJECTE\ENTREGA 4.3 VERSION 1 PROYECTO\ProjecteSO\ProjecteSO\bin\Debug\ProjecteSO.exe
+C:\Users\Mar\Documents\UPC\3A\SISTEMES OPERATIUS\PROJECTE\ENTREGA 4.3 VERSION 1 PROYECTO\ProjecteSO\ProjecteSO\bin\Debug\ProjecteSO.pdb
+C:\Users\Mar\Documents\UPC\3A\SISTEMES OPERATIUS\PROJECTE\ENTREGA 4.3 VERSION 1 PROYECTO\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSOv1.csprojResolveAssemblyReference.cache
+C:\Users\Mar\Documents\UPC\3A\SISTEMES OPERATIUS\PROJECTE\ENTREGA 4.3 VERSION 1 PROYECTO\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.MainPage.resources
+C:\Users\Mar\Documents\UPC\3A\SISTEMES OPERATIUS\PROJECTE\ENTREGA 4.3 VERSION 1 PROYECTO\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.SignIn.resources
+C:\Users\Mar\Documents\UPC\3A\SISTEMES OPERATIUS\PROJECTE\ENTREGA 4.3 VERSION 1 PROYECTO\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.LogIn.resources
+C:\Users\Mar\Documents\UPC\3A\SISTEMES OPERATIUS\PROJECTE\ENTREGA 4.3 VERSION 1 PROYECTO\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.Wellcome.resources
+C:\Users\Mar\Documents\UPC\3A\SISTEMES OPERATIUS\PROJECTE\ENTREGA 4.3 VERSION 1 PROYECTO\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.Properties.Resources.resources
+C:\Users\Mar\Documents\UPC\3A\SISTEMES OPERATIUS\PROJECTE\ENTREGA 4.3 VERSION 1 PROYECTO\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSOv1.csproj.GenerateResource.Cache
+C:\Users\Mar\Documents\UPC\3A\SISTEMES OPERATIUS\PROJECTE\ENTREGA 4.3 VERSION 1 PROYECTO\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.exe
+C:\Users\Mar\Documents\UPC\3A\SISTEMES OPERATIUS\PROJECTE\ENTREGA 4.3 VERSION 1 PROYECTO\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.pdb
+C:\Users\ruben\Desktop\ENTREGA 4.3 VERSION 1 PROYECTO v1\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.exe
+C:\Users\ruben\Desktop\ENTREGA 4.3 VERSION 1 PROYECTO v1\ProjecteSO\ProjecteSO\bin\Debug\ProjecteSO.exe
+C:\Users\ruben\Desktop\ENTREGA 4.3 VERSION 1 PROYECTO v1\ProjecteSO\ProjecteSO\bin\Debug\ProjecteSO.pdb
+C:\Users\ruben\Desktop\ENTREGA 4.3 VERSION 1 PROYECTO v1\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSOv1.csprojResolveAssemblyReference.cache
+C:\Users\ruben\Desktop\ENTREGA 4.3 VERSION 1 PROYECTO v1\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.MainPage.resources
+C:\Users\ruben\Desktop\ENTREGA 4.3 VERSION 1 PROYECTO v1\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.SignIn.resources
+C:\Users\ruben\Desktop\ENTREGA 4.3 VERSION 1 PROYECTO v1\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.LogIn.resources
+C:\Users\ruben\Desktop\ENTREGA 4.3 VERSION 1 PROYECTO v1\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.Wellcome.resources
+C:\Users\ruben\Desktop\ENTREGA 4.3 VERSION 1 PROYECTO v1\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.Properties.Resources.resources
+C:\Users\ruben\Desktop\ENTREGA 4.3 VERSION 1 PROYECTO v1\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSOv1.csproj.GenerateResource.Cache
+C:\Users\ruben\Desktop\ENTREGA 4.3 VERSION 1 PROYECTO v1\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.pdb
+C:\Users\ruben\Desktop\Entrega 4.3 Version 2\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.exe
+C:\Users\ruben\Desktop\Entrega 4.3 Version 2\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.pdb
+C:\Users\ruben\Desktop\Entrega 4.3 Version 2\ProjecteSO\ProjecteSO\bin\Debug\ProjecteSO.exe
+C:\Users\ruben\Desktop\Entrega 4.3 Version 2\ProjecteSO\ProjecteSO\bin\Debug\ProjecteSO.pdb
+C:\Users\ruben\Desktop\Entrega 4.3 Version 2\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSOv1.csprojResolveAssemblyReference.cache
+C:\Users\ruben\Desktop\Entrega 4.3 Version 2\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.MainPage.resources
+C:\Users\ruben\Desktop\Entrega 4.3 Version 2\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.SignIn.resources
+C:\Users\ruben\Desktop\Entrega 4.3 Version 2\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.LogIn.resources
+C:\Users\ruben\Desktop\Entrega 4.3 Version 2\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.Wellcome.resources
+C:\Users\ruben\Desktop\Entrega 4.3 Version 2\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.Properties.Resources.resources
+C:\Users\ruben\Desktop\Entrega 4.3 Version 2\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSOv1.csproj.GenerateResource.Cache
+C:\Users\alba_\OneDrive\Documentos\UNI\3A\SO\Entrega 4.3 Version 2 Buena\Entrega 4.3 Version 2\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.exe
+C:\Users\alba_\OneDrive\Documentos\UNI\3A\SO\Entrega 4.3 Version 2 Buena\Entrega 4.3 Version 2\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.pdb
+C:\Users\alba_\OneDrive\Documentos\UNI\3A\SO\Entrega 4.3 Version 2 Buena\Entrega 4.3 Version 2\ProjecteSO\ProjecteSO\bin\Debug\ProjecteSO.exe
+C:\Users\alba_\OneDrive\Documentos\UNI\3A\SO\Entrega 4.3 Version 2 Buena\Entrega 4.3 Version 2\ProjecteSO\ProjecteSO\bin\Debug\ProjecteSO.pdb
+C:\Users\alba_\OneDrive\Documentos\UNI\3A\SO\Entrega 4.3 Version 2 Buena\Entrega 4.3 Version 2\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSOv1.csprojResolveAssemblyReference.cache
+C:\Users\alba_\OneDrive\Documentos\UNI\3A\SO\Entrega 4.3 Version 2 Buena\Entrega 4.3 Version 2\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.MainPage.resources
+C:\Users\alba_\OneDrive\Documentos\UNI\3A\SO\Entrega 4.3 Version 2 Buena\Entrega 4.3 Version 2\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.SignIn.resources
+C:\Users\alba_\OneDrive\Documentos\UNI\3A\SO\Entrega 4.3 Version 2 Buena\Entrega 4.3 Version 2\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.LogIn.resources
+C:\Users\alba_\OneDrive\Documentos\UNI\3A\SO\Entrega 4.3 Version 2 Buena\Entrega 4.3 Version 2\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.Wellcome.resources
+C:\Users\alba_\OneDrive\Documentos\UNI\3A\SO\Entrega 4.3 Version 2 Buena\Entrega 4.3 Version 2\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.Properties.Resources.resources
+C:\Users\alba_\OneDrive\Documentos\UNI\3A\SO\Entrega 4.3 Version 2 Buena\Entrega 4.3 Version 2\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSOv1.csproj.GenerateResource.Cache
+C:\Users\ruben\Desktop\Entrega 4.3 Version 2 Buena\Entrega 4.3 Version 2\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.exe
+C:\Users\ruben\Desktop\Entrega 4.3 Version 2 Buena\Entrega 4.3 Version 2\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.pdb
+C:\Users\ruben\Desktop\Entrega 4.3 Version 2 Buena\Entrega 4.3 Version 2\ProjecteSO\ProjecteSO\bin\Debug\ProjecteSO.exe
+C:\Users\ruben\Desktop\Entrega 4.3 Version 2 Buena\Entrega 4.3 Version 2\ProjecteSO\ProjecteSO\bin\Debug\ProjecteSO.pdb
+C:\Users\ruben\Desktop\Entrega 4.3 Version 2 Buena\Entrega 4.3 Version 2\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSOv1.csprojResolveAssemblyReference.cache
+C:\Users\ruben\Desktop\Entrega 4.3 Version 2 Buena\Entrega 4.3 Version 2\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.MainPage.resources
+C:\Users\ruben\Desktop\Entrega 4.3 Version 2 Buena\Entrega 4.3 Version 2\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.SignIn.resources
+C:\Users\ruben\Desktop\Entrega 4.3 Version 2 Buena\Entrega 4.3 Version 2\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.LogIn.resources
+C:\Users\ruben\Desktop\Entrega 4.3 Version 2 Buena\Entrega 4.3 Version 2\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.Wellcome.resources
+C:\Users\ruben\Desktop\Entrega 4.3 Version 2 Buena\Entrega 4.3 Version 2\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.Properties.Resources.resources
+C:\Users\ruben\Desktop\Entrega 4.3 Version 2 Buena\Entrega 4.3 Version 2\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSOv1.csproj.GenerateResource.Cache
+C:\Users\Mar\Desktop\Entrega 4.3 Version 1 Buena\Entrega 4.3 Version 1 Buena\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.exe
+C:\Users\Mar\Desktop\Entrega 4.3 Version 1 Buena\Entrega 4.3 Version 1 Buena\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.pdb
+C:\Users\Mar\Desktop\MIPROYECTO\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.exe
+C:\Users\Mar\Desktop\MIPROYECTO\ProjecteSO\ProjecteSO\obj\x86\Debug\ProjecteSO.pdb
